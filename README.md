@@ -12,7 +12,7 @@ I'm a Software Engineer in the making. I'm passionate about sharing knowledge, d
 - 🌱 I’m currently learning JavaScript, Nodejs, and Java.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Backend engineering
-- 📫 You can [view my resume](#) and contact me by emailing adetunjiadebowale11@gmail.com.
+- 📫 adetunjiadebowale11@gmail.com.
 
 ---
 
